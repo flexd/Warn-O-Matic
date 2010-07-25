@@ -1,0 +1,11 @@
+## Interface: 33500
+## Title: Warn-O-Matic
+## Notes: Warns you when either you or party members have low health. Made to learn about Lua/Ace3 :-)
+## Author: flexd
+## Version: 0.1-a
+## SavedVariables: WarnOMaticDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+embeds.xml
+Core.lua
+
